@@ -35,7 +35,7 @@ The most best way to play against bingles is to avoid melee combat. Instead; Use
   </Box>
 The bingle pit itself can only be damaged by melee weapons and explosives. When attacking the pit directly be careful to avoid falling into it, as you can do so even while alive. It is typically best to deal with the bingles themselves before attacking the pit.
 
-If a bingle infestation is growing out of hand, consider shutting down gravity, bingles cannot drop items into a pit without gravity and therefor cannot multiply.
+If a bingle infestation is growing out of hand, consider shutting down gravity, bingles cannot drop items into a pit without gravity and therefore cannot multiply.
 
   <Box>
     <GuideEntityEmbed Entity="GravityGenerator"/>
@@ -43,4 +43,5 @@ If a bingle infestation is growing out of hand, consider shutting down gravity, 
 
 All items (and people) lost to the pit will be spat out when destroyed!
 
+Bingles are resistant to all damage types except Ion, which they take extra damage from.
 </Document>

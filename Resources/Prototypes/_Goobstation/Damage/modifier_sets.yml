@@ -206,7 +206,7 @@
     Piercing: 0.9
     Shock: 0.9
     Heat: 0.9
-    Ion: 2.0 # double damage from ion
+    Ion: 1.2 # extra damage from ion
   ignoreArmorPierceFlags: All
 
 - type: damageModifierSet
@@ -217,7 +217,7 @@
     Piercing: 0.8
     Shock: 0.8
     Heat: 0.8
-    Ion: 2.0 # double damage from ion
+    Ion: 1.1 # extra damage from ion
   ignoreArmorPierceFlags: All
 
 - type: damageModifierSet

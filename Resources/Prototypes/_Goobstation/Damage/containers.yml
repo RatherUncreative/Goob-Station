@@ -46,3 +46,13 @@
   - Heat
   - Caustic
   - Structural
+
+- type: damageContainer
+  id: Bingle
+  supportedGroups:
+  - Brute
+  - Burn
+  - Toxin
+  - Airloss
+  - Genetic
+  - Electronic
